@@ -76,7 +76,7 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 ---
 
 ### 🎨 **GitHub Activity**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richmond003&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richmond003&theme=radical&hide_border=true&border_radius=10)](https://github.com/richmond003)
 
 ---
 
