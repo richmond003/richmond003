@@ -22,11 +22,12 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 ---
 
 ## 🌎 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richmond003/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richmond003/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/richmond003)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richmond003)
 &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](your-twitter-link)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ixx_richie/)
+
 
 📧 **Email:** [richmondbhnyantakyi@gmail.com](mailto:richmondbhnyantakyi@gmail.com)
 
