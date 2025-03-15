@@ -32,7 +32,7 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 &nbsp;&nbsp;
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your_reddit_username)
 &nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your_discord_id)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ix_richie)
 
 
 
