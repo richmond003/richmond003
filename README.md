@@ -28,7 +28,7 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ixx_richie/)
 &nbsp;&nbsp;
-[![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)]([https://devpost.com/your_devpost_username](https://devpost.com/richmondbhnyantakyi))
+[![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)]((https://devpost.com/richmondbhnyantakyi))
 &nbsp;&nbsp;
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your_reddit_username)
 &nbsp;&nbsp;
