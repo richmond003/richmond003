@@ -72,10 +72,10 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richmond003&langs_count=10&layout=compact&theme=radical&hide_border=true&card_width=500)](https://github.com/richmond003)
 
----
+<!-- ---
 
 ### 🎨 **GitHub Activity**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richmond003&theme=radical&hide_border=true&border_radius=10)](https://github.com/richmond003)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richmond003&theme=radical&hide_border=true&border_radius=10)](https://github.com/richmond003) -->
 
 ---
 
