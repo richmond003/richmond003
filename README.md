@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 **About Me**
 
-I am a **Computer Science student**, minoring in **Finance** at **Caldwell University**. I'm passionate about **AI, Web and Mobile APP Development, and Blockchain**.
+I am a **Computer Science student**, minoring in **Business Analytics**. I'm passionate about **AI, Web and Mobile APP Development, and Blockchain**.
 
 - 🎯 Focused on building scalable and innovative solutions
 - 🚀 Passionate about AI, Cloud Computing, and Full-Stack Development
