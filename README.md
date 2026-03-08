@@ -9,7 +9,7 @@
 I am a **Computer Science student**, minoring in **Business Analytics**. I'm passionate about **AI, Web and Mobile APP Development, and Blockchain**.
 
 - 🎯 Focused on building scalable and innovative solutions
-- 🚀 Passionate about AI, Cloud Computing, and Full-Stack Development
+- 🚀 Passionate about Machine Learning, AI, Full-Stack Development, and Blockchain Technologies.
 - 🎓 Always learning and exploring new technologies
 
 
@@ -20,13 +20,10 @@ I am a **Computer Science student**, minoring in **Business Analytics**. I'm pas
 ## 🌎 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richmond003/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richmond003)
-&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ixx_richie/)
 &nbsp;&nbsp;
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/richmondbhnyantakyi)
 &nbsp;&nbsp;
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your_reddit_username)
 &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ix_richie)
 
