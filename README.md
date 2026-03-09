@@ -24,7 +24,6 @@ I am a **Computer Science student**, minoring in **Business Analytics**. I'm pas
 &nbsp;&nbsp;
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/richmondbhnyantakyi)
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ix_richie)
 
 
