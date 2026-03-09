@@ -1,5 +1,6 @@
 
-![GitHub Banner](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+<img src="https://readme-img.onrender.com/api/banner?username=richmond003&template=banner2&bg=dark&font=modern" alt="richmond003's GitHub Stats" />
+  
 # Hey there 👋 I'm **Richmond**
 
 
