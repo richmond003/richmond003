@@ -1,8 +1,4 @@
-
-<img src="https://readme-img.onrender.com/api/banner?username=richmond003&template=banner2&bg=dark&font=modern" alt="richmond003's GitHub Stats" />
-  
 # Hey there 👋 I'm **Richmond**
-
 
 
 ## 🧑‍💻 **About Me**
@@ -19,6 +15,7 @@ I am a **Computer Science student**, minoring in **Business Analytics**. I'm pas
 ---
 
 ## 🌎 **Connect with Me**
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richmond003/)
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ixx_richie/)
