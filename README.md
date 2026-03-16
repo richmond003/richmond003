@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=richmond003&color=blue&style=flat)
 # Hey there 👋 I'm **Richmond**
 
 
