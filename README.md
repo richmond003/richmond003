@@ -1,9 +1,14 @@
-<h1 align="center">Hey, I'm Richmond 👋</h1>
-
-<h3 align="center">CS student • Business Analytics minor • building in AI, web, mobile, and blockchain</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kablammo&weight=700&size=40&pause=1000000&color=6366F1&center=true&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Richmond+%F0%9F%91%8B" alt="Richmond" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Computer+Science+%2B+Business+Analytics;AI+%2F+Web+%2F+Mobile+%2F+Blockchain;Building+scalable%2C+innovative+solutions;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=500&size=18&pause=10000000&color=6366F1&center=true&vCenter=true&width=600&height=30&lines=CS+student+%E2%80%A2+Business+Analytics+minor+%E2%80%A2+building+in+AI%2C+web%2C+mobile%2C+and+blockchain" alt="subtitle" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Computer+Science+%2B+Business+Analytics;AI+%2F+Web+%2F+Mobile+%2F+Blockchain;Building+scalable%2C+innovative+solutions;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 </p>
 
 <br>
@@ -27,8 +32,11 @@ I'm a **Computer Science** student minoring in **Business Analytics**, focused o
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,postgres,tensorflow,vscode,git&theme=dark" />
 
-**AI / ML:** LLM APIs (Groq, OpenAI, Anthropic, Gemini) · LangChain · RAG · MCP · PyMuPDF · pdfplumber · Pydantic
-**Web & Mobile:** React · Next.js · React Native · Expo · TypeScript · FastAPI · PostgreSQL
+| Category | Stack |
+|---|---|
+| **AI / ML** | LLM APIs (Groq, OpenAI, Anthropic, Gemini) · LangChain · RAG · MCP · Pydantic |
+| **Web & Mobile** | React · Next.js · React Native · Expo · TypeScript |
+| **Backend** | Python · FastAPI · PostgreSQL · SQLModel |
 
 <br>
 
