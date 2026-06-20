@@ -49,7 +49,7 @@ I'm a **Computer Science** student minoring in **Business Analytics**, focused o
 
 ### 📈 the "business analytics" half of me
 
-Stats, regression, linear programming, simulation — the side that makes sure the AI projects aren't just vibes, they're backed by actual numbers.
+Stats, regression, linear programming, simulation the side that makes sure the AI projects aren't just vibes, they're backed by actual numbers.
 
 <br>
 
