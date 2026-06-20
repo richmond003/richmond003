@@ -14,7 +14,7 @@
 
 <br>
 
-### 🧑‍💻 about me
+<h2 align="center"> <i>🌿 About me :) </i> </h2>
 
 I'm a **Computer Science** student minoring in **Business Analytics**, focused on **AI, web & mobile app development, and blockchain**.
 
