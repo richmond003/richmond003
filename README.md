@@ -31,13 +31,17 @@ I'm a **Computer Science** student minoring in **Business Analytics**, focused o
 
 ### 🛠️ what i build with
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,postgres,tensorflow,vscode,git&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,fastapi,postgres,tensorflow,vscode,git&theme=dark" />
+  <img src="https://cdn.simpleicons.org/expo/ffffff" width="48" height="48" alt="Expo" />
+</p>
 
 | Category | Stack |
 |---|---|
 | **AI / ML** | LLM APIs (Groq, OpenAI, Anthropic, Gemini) · LangChain · RAG · MCP · Pydantic |
 | **Web & Mobile** | React · Next.js · React Native · Expo · TypeScript |
 | **Backend** | Python · FastAPI · PostgreSQL · SQLModel |
+| **PaaS/SaaS** | Dyantrace · PEGA |
 
 <br>
 
