@@ -4,7 +4,7 @@
 <h1 align="center" >Hey, I'm Richmond 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=500&size=18&pause=10000000&color=6366F1&center=true&vCenter=true&width=600&height=30&lines=CS+student+%E2%80%A2+Business+Analytics+minor+%E2%80%A2+building+in+AI%2C+web%2C+mobile%2C+and+blockchain" alt="subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=500&size=18&pause=10000000&color=6366F1&center=true&vCenter=true&width=600&height=30&lines=Building+solutions%2C+one+line+of+code+at+a+time+%F0%9F%9A%80" alt="subtitle" />
 </p>
 
 <p align="center">
