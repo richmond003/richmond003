@@ -37,7 +37,7 @@ I'm a **Computer Science student** minoring in **Business Analytics**, with a gr
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Build With
 
 <p align="center">
   <img
@@ -78,42 +78,63 @@ I'm a **Computer Science student** minoring in **Business Analytics**, with a gr
 
 ### 🤖 AI Resume Builder
 
-A Python application that transforms a resume and job description into a cleaner, more targeted one-page resume.
+A Python application that transforms a resume and job description into a cleaner, more targeted, and professionally formatted one-page resume.
 
-The project uses:
+**Built with:**
 
-* **Groq's `llama-3.3-70b-versatile`** for AI-powered resume generation
-* **Pydantic** for structured and validated outputs
-* **python-docx** for generating professional Word documents
-* Job-description analysis to better align resume content with a target role
+* ⚡ **Groq `llama-3.3-70b-versatile`** for AI-powered generation
+* 🧩 **Pydantic** for structured and validated LLM responses
+* 📄 **python-docx** for generating professional Word documents
+* 🎯 Job-description analysis for targeted resume optimization
 
-> Less fluff. Better structure. More relevant content.
+The goal is simple:
+
+> Turn messy resume content into something structured, concise, relevant, and recruiter-friendly.
+
+---
+
+## 🧠 What I'm Currently Exploring
+
+```text
+🤖 AI Agents & LLM Applications
+🧠 LangChain, RAG & MCP
+🌐 Next.js & Modern Web Development
+📱 React Native & Expo
+⚙️ Backend Architecture
+⛓️ Ethereum, Solidity & Vyper
+⚡ Solana Development
+📊 Data-Driven Application Development
+```
 
 ---
 
 ## 📈 The Business Analytics Side
 
-I don't just enjoy building software — I'm also interested in understanding the **data behind decisions**.
+Software engineering is only one side of how I like to solve problems.
 
-My Business Analytics background includes:
+My **Business Analytics** background helps me understand the numbers behind technical and business decisions.
 
-`Statistics` · `Regression` · `Linear Programming` · `Simulation` · `Data Analysis`
+I'm building experience in:
 
-I enjoy combining analytics with software engineering so that projects aren't built purely on intuition — they're supported by **data, measurable outcomes, and practical reasoning**.
+`📊 Statistics` `📈 Regression Analysis` `🧮 Linear Programming` `🎲 Simulation` `🔍 Data Analysis` `💡 Data-Driven Decision Making`
+
+I enjoy combining analytics with software engineering so projects aren't built entirely on intuition — they're supported by **data, measurable outcomes, and practical reasoning**.
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Areas of Interest
 
-```text
-🤖 AI Agents & LLM Applications
-🧠 LangChain / RAG / MCP
-📱 React Native & Expo
-🌐 Next.js
-⛓️ Solidity & Solana
-⚙️ Backend Architecture
-📊 Data-Driven Application Development
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Full--Stack_Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Mobile_Development-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Mobile"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Business_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Business Analytics"/>
+</p>
 
 ---
 
@@ -126,29 +147,28 @@ I enjoy combining analytics with software engineering so that projects aren't bu
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
-</a>
-
-<a href="https://www.instagram.com/ixx_richie/">
+</a> <a href="https://x.com/ixx_richie">
+  <img
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
+</a><a href="https://www.instagram.com/ixx_richie/">
   <img
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
   />
 </a>
-
 <a href="https://devpost.com/richmondbhnyantakyi">
   <img
     src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"
     alt="Devpost"
   />
-</a>
-
-<a href="https://discord.com/users/ix_richie">
+</a><a href="https://discord.com/users/ix_richie">
   <img
     src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
     alt="Discord"
   />
 </a>
-
 <a href="mailto:richmondbhnyantakyi@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -162,4 +182,8 @@ I enjoy combining analytics with software engineering so that projects aren't bu
 
 <p align="center">
   <i>Building solutions, one line of code at a time 🚀</i>
+</p>
+
+<p align="center">
+  <strong>Always learning. Always building. Always shipping.</strong>
 </p>
