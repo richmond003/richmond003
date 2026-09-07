@@ -45,7 +45,6 @@ I'm a **Computer Science student** minoring in **Business Analytics**, with a gr
     alt="Technology stack"
   />
 </p>
-
 <p align="center">
   <img
     src="https://cdn.simpleicons.org/expo/ffffff"
@@ -60,7 +59,20 @@ I'm a **Computer Science student** minoring in **Business Analytics**, with a gr
     height="48"
     alt="Solana"
   />
+  <img
+  src="https://cdn.simpleicons.org/ethereum/627EEA"
+  width="48"
+  height="50"
+  alt="Ethereum"
+/>
+<!-- <img
+  src="https://ethereum.org/images/assets/eth-diamond-black.png"
+  width="48"
+  height="48"
+  alt="Ethereum"
+/> -->
 </p>
+
 
 | Category                      | Technologies                                                                       |
 | ----------------------------- | ---------------------------------------------------------------------------------- |
@@ -68,7 +80,7 @@ I'm a **Computer Science student** minoring in **Business Analytics**, with a gr
 | 🌐 **Web**                    | React · Next.js · JavaScript · TypeScript                                          |
 | 📱 **Mobile**                 | React Native · Expo                                                                |
 | ⚙️ **Backend**                | Python · FastAPI · PostgreSQL · SQLModel                                           |
-| ⛓️ **Blockchain**             | Solidity · Solana · Smart Contracts                                                |
+| ⛓️ **Blockchain**             | Solidity · Solana · Smart Contracts · Ethereum                                         |
 | 🏢 **Enterprise / Platforms** | Pega Platform · Dynatrace                                                          |
 | 🧰 **Developer Tools**        | Git · GitHub · VS Code                                                             |
 
