@@ -140,19 +140,21 @@ I enjoy combining analytics with software engineering so projects aren't built e
 
 ## 🌎 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/richmond003/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
-</a> <a href="https://x.com/ixx_richie">
+</a>
+<a href="https://x.com/ixx_richie">
   <img
     src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
     alt="X"
   />
-</a><a href="https://www.instagram.com/ixx_richie/">
+</a>
+<a href="https://www.instagram.com/ixx_richie/">
   <img
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
@@ -163,7 +165,8 @@ I enjoy combining analytics with software engineering so projects aren't built e
     src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"
     alt="Devpost"
   />
-</a><a href="https://discord.com/users/ix_richie">
+</a>
+<a href="https://discord.com/users/ix_richie">
   <img
     src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
     alt="Discord"
@@ -176,7 +179,7 @@ I enjoy combining analytics with software engineering so projects aren't built e
   />
 </a>
 
-</p>
+</div>
 
 ---
 
